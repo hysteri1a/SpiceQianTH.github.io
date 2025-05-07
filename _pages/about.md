@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year undergraduate student from [School of Mathematics](https://www.seu.edu.cn/). My research interest includes large language models, Monte Carlo tree search, parallel computing, and machine learning.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Qi, G.](https://cs.seu.edu.cn/2023/1024/c23024a469541/page.html) from [School of Computer Science](https://www.seu.edu.cn/), Southeast University. 
 
 [Email](mailto:qth2mir@seu.edu.cn) / [Github](https://github.com/hysteri1a) / [Wechat](../images/wechat.jpg)
 
