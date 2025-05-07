@@ -44,13 +44,13 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  facebook         : https://www.facebook.com/profile.php?id=61575653806259
-  instagram        : https://www.instagram.com/lawrence_qian1014/
-  linkedin         : https://www.linkedin.com/in/tianhao-qian-95866728a/
-  steam            : https://steamcommunity.com/profiles/76561199116997481
-  twitter          : sheep_spice
-  youtube          : %E7%BE%8A%E4%B8%8E%E9%A6%99%E8%BE%9B%E6%96%99
-  zhihu            : https://www.zhihu.com/people/corner-stranger
+  facebook         : "https://www.facebook.com/profile.php?id=61575653806259"
+  instagram        : "https://www.instagram.com/lawrence_qian1014"
+  linkedin         : "https://www.linkedin.com/in/tianhao-qian-95866728a"
+  steam            : "https://steamcommunity.com/profiles/76561199116997481"
+  twitter          : "https://x.com/sheep_spice"
+  youtube          : "https://www.youtube.com/@%E7%BE%8A%E4%B8%8E%E9%A6%99%E8%BE%9B%E6%96%99"
+  zhihu            : "https://www.zhihu.com/people/corner-stranger"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
