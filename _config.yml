@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../images/pic.png"
+  avatar           : "images/pic.png"
   name             : "Tianhao Qian"
   pronouns         : "he"  
   bio              : "An average scholar who possesses strong knowledge in mathematics and computer science."
@@ -48,8 +48,8 @@ author:
   instagram        : https://www.instagram.com/lawrence_qian1014/
   linkedin         : https://www.linkedin.com/in/tianhao-qian-95866728a/
   steam            : https://steamcommunity.com/profiles/76561199116997481
-  twitter          : https://x.com/sheep_spice
-  youtube          : https://www.youtube.com/@%E7%BE%8A%E4%B8%8E%E9%A6%99%E8%BE%9B%E6%96%99
+  twitter          : sheep_spice
+  youtube          : %E7%BE%8A%E4%B8%8E%E9%A6%99%E8%BE%9B%E6%96%99
   zhihu            : https://www.zhihu.com/people/corner-stranger
 
 # Publication Category - The following the list of publication categories and their headings
